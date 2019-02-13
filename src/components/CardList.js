@@ -9,6 +9,7 @@ return (
         <div>
     {
         robots.map((user, i )=> {
+            
             return (
             <Card 
             key={i} 
